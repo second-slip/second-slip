@@ -1,10 +1,10 @@
 
-# Hello there everyone, I'm Andrew <img src="https://birderstorage.blob.core.windows.net/domain/wave.gif" width="30px" height="30px" />
+# Hello there everyone <img src="https://birderstorage.blob.core.windows.net/domain/wave.gif" width="30px" height="30px" />
 
-I am a sofware developer ...
+My name is Andrew and I am a sofware developer ...
 
-- I currently work in .NET (C#) and Angular.
-- I’m always learning how to be a better coder.
+- I work with .NET (C#) technologies and Angular.
+- I’m always learning how to write better code.
 - I'm interested in coding, and the applications of data science and machine learning ...
 - You can contact me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2].
 
