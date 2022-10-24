@@ -1,10 +1,12 @@
 
 # Hello there everyone, I'm Andrew <img src="https://birderstorage.blob.core.windows.net/domain/wave.gif" width="30px" height="30px" />
 
+I am a sofware developer ...
+
 - I currently work in .NET (C#) and Angular.
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- You can reach me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2]
+- I’m always learning how to be a better coder.
+- I'm interested in coding, and the applications of data science and machine learning ...
+- You can contact me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2].
 
 
 [2]: https://www.linkedin.com/in/andrewstuartcross/
@@ -43,5 +45,6 @@ Shiels.io
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WinthorpeCross&repo=birder-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-## 👀 Visitor count
+### Visitor count
+
 <img src="https://profile-counter.glitch.me/WinthorpeCross/count.svg" />
