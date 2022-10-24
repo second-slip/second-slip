@@ -1,5 +1,5 @@
 
-# Hello there everyone <img src="https://birderstorage.blob.core.windows.net/domain/wave.gif" width="30px" height="30px" />
+# Hello there <img src="https://birderstorage.blob.core.windows.net/domain/wave.gif" width="30px" height="30px" />
 
 My name is Andrew and I am a software developer ...
 
