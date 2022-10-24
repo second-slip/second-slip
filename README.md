@@ -1,10 +1,21 @@
 
 
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/WinthorpeCross/count.svg" />
+
+### 📫 Reach me at 
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social) -->
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrewstuartcross/)
+
+
+
 - 👋 Hi, I’m @WinthorpeCross
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrewstuartcross/)
 
 <!-- Actual text -->
 
@@ -17,11 +28,8 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-<!-- [1]: https://twitter.com/Martin_Heinz_ -->
-[2]: https://www.linkedin.com/in/heinz-martin/
-
-
-
+<!-- [1]: https://twitter.com/... -->
+[2]: https://www.linkedin.com/in/andrewstuartcross/
 
 <!---
 WinthorpeCross/WinthorpeCross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
