@@ -3,7 +3,7 @@
 
 My name is Andrew and I am a software developer.  I am experienced in the full stack development of websites and desktop applications.
 
-- I work with .NET (C#) technologies and Angular.
+- I work with .NET (C#) and Angular.
 - I’m always learning how to write better code.
 - I'm interested in the practical applications of data science techniques and machine learning.
 - You can contact me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2].
