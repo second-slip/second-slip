@@ -1,16 +1,16 @@
 
 # Hello there <img src="https://birderstorage.blob.core.windows.net/domain/wave.gif" width="30px" height="30px" />
 
-My name is Andrew and I am a software developer.  I am experienced in the full stack development of websites and desktop applications. I also work on a couple of side-projects which are listed below.
+My name is Andrew and I am a software developer.  I am experienced in the full stack development of websites and desktop applications.
 
 - I work with .NET (C#) technologies and Angular.
 - I’m always learning how to write better code.
 - I'm interested in the practical applications of data science techniques and machine learning.
 - You can contact me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2].
 
-
 [2]: https://www.linkedin.com/in/andrewstuartcross/
 
+I also work on a couple of side-projects which are pinned below.
 
 <!---
 
