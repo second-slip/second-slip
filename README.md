@@ -12,22 +12,7 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
 
 I also work on a couple of side-projects which are pinned below.
 
-<!---
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2]
-
-WinthorpeCross/WinthorpeCross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-Shiels.io
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
---->
-
-
+&nbsp;
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/WinthorpeCross/WinthorpeCross">
@@ -45,6 +30,18 @@ Shiels.io
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WinthorpeCross&repo=birder-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-### Visitors count
+&nbsp;
+## Journal
+
+#### December 2022
+- Updated <a href="https://github.com/WinthorpeCross/Birder">Birder</a> to .NET SDK version 7.
+
+#### November 2022
+- Learning course: Github Codespaces (LinkedIn Learning)
+- Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to Angular version 15.
+
+
+&nbsp;
+## Visitors count
 
 <img src="https://profile-counter.glitch.me/WinthorpeCross/count.svg" />
