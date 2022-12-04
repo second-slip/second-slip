@@ -31,17 +31,17 @@ I also work on a couple of side-projects which are pinned below.
 </a> 
 
 &nbsp;
-## Journal
+## :mortar_board: Development journal
 
 #### December 2022
 - Updated <a href="https://github.com/WinthorpeCross/Birder">Birder</a> to .NET SDK version 7.
 
 #### November 2022
-- Learning course: Github Codespaces (LinkedIn Learning)
+- Training: _GitHub Codespaces_ (LinkedIn Learning)
 - Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to Angular version 15.
 
 
 &nbsp;
-## Visitors count
+## :abacus: Visitors count
 
 <img src="https://profile-counter.glitch.me/WinthorpeCross/count.svg" />
