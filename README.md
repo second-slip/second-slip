@@ -33,7 +33,7 @@ I also work on a couple of side-projects which are pinned below.
 &nbsp;
 ## :mortar_board: Development journal
 
-#### December 2023
+#### January 2023
 - ...
 
 #### December 2022
