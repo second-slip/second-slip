@@ -6,7 +6,7 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
 - I work with .NET (C#) and Angular.
 - I’m always learning how to write better code.
 - I'm interested in the practical applications of data science techniques and machine learning.
-- You can contact me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2].
+- You can contact me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2].
 
 [2]: https://www.linkedin.com/in/andrewstuartcross/
 
@@ -43,6 +43,10 @@ I also work on a couple of side-projects which are pinned below.
 #### November 2022
 - Training: _GitHub Codespaces_ (LinkedIn Learning)
 - Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to Angular version 15.
+
+&nbsp;
+## :star: Favourite learning resources
+- _Testing Angular, A Guide to Robust Angular Applications_ (https://testing-angular.com/).  This is a brilliant (and free) resource.  I finally got to grips with testing in Angular with this guide.
 
 
 &nbsp;
