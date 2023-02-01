@@ -22,8 +22,8 @@ I also work on a couple of side-projects which are pinned below.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WinthorpeCross&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="WinthorpeCross's GitHub Stats" />
 </a>
 
-<a href="https://github.com/WinthorpeCross/Birder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WinthorpeCross&repo=Birder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/WinthorpeCross/birder-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WinthorpeCross&repo=birder-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/WinthorpeCross/birder-client">
