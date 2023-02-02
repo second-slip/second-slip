@@ -33,12 +33,14 @@ I also work on a couple of side-projects which are pinned below.
 &nbsp;
 ## :mortar_board: Development journal
 
+<!---  #### February 2023             -->
+
 #### January 2023
-- ...
+- Event:  _.NET, IoT and Hedgehogs! + Visual Studio Extensions_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 31/01/23)
 
 #### December 2022
 - Training: _What's new in ASP.NET Core 7.0_ (Microsoft Learn, <a href="https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-7.0?source=recommendations&view=aspnetcore-7.0">here</a>) and _C# 11 and beyond_ (summary on YouTube, <a href="https://www.youtube.com/watch?v=Z8SL0Vv30j8">here</a>).
-- Updated <a href="https://github.com/WinthorpeCross/Birder">Birder</a> to .NET SDK version 7.
+- Updated <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> to .NET SDK version 7.
 
 #### November 2022
 - Training: _GitHub Codespaces_ (LinkedIn Learning)
