@@ -47,7 +47,7 @@ I also work on a couple of side-projects which are pinned below.
 - Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to Angular version 15.
 
 &nbsp;
-## :star: Favourite learning resources
+## :star: My favourite learning resources
 - _Testing Angular, A Guide to Robust Angular Applications_ (https://testing-angular.com/).  This is a brilliant (and free) resource.  It helped me to finally get to grips with testing in Angular.
 
 
