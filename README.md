@@ -48,7 +48,7 @@ I also work on a couple of side-projects which are pinned below.
 
 &nbsp;
 ## :star: My favourite learning resources
-- _Testing Angular, A Guide to Robust Angular Applications_ (https://testing-angular.com/).  This is a brilliant (and free) resource.  It helped me to finally get to grips with testing in Angular.
+- _Testing Angular, A Guide to Robust Angular Applications_ (https://testing-angular.com/).  This is a brilliant (and free) resource.  It helped me to get to grips with testing in Angular.
 
 
 &nbsp;
