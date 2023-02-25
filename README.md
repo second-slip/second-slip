@@ -10,7 +10,7 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
 
 [2]: https://www.linkedin.com/in/andrewstuartcross/
 
-I also work on a couple of side-projects which are pinned below.
+I work on some hobby projects which are pinned below.
 
 &nbsp;
 ## &#x1f4c8; GitHub Stats
@@ -33,7 +33,10 @@ I also work on a couple of side-projects which are pinned below.
 &nbsp;
 ## :mortar_board: Development journal
 
-<!---  #### February 2023             -->
+#### February 2023
+- Training: [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) including deploying a new statis web site with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) tutorial.
+- Added [GitHub Actions](https://github.com/features/actions) to <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to automate build, testing and deployment.  
+- Setup [Codecov](https://about.codecov.io/) to track the unit test code coverage:  [![codecov](https://codecov.io/gh/WinthorpeCross/birder-client/branch/master/graph/badge.svg?token=LIA3YIDXX2)](https://codecov.io/gh/WinthorpeCross/birder-client).
 
 #### January 2023
 - Event:  _.NET, IoT and Hedgehogs! + Visual Studio Extensions_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 31/01/23)
@@ -47,7 +50,7 @@ I also work on a couple of side-projects which are pinned below.
 - Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to Angular version 15.
 
 &nbsp;
-## :star: My favourite learning resources
+## :star: My favourite resources
 - _Testing Angular, A Guide to Robust Angular Applications_ (https://testing-angular.com/).  This is a brilliant (and free) resource.  It helped me to get to grips with testing in Angular.
 
 
