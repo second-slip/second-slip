@@ -37,8 +37,8 @@ I work on some hobby projects which are pinned below.
 - ...
 
 #### February 2023
-- Training: [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) including deploying a new static web site with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) tutorial.
-- Setup continuous integration (CI) with [GitHub Actions](https://github.com/features/actions) to <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to automate build, testing and deployment.  
+- Training: Using [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) to deploy new static web sites. Experimented with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) tutorial.
+- Setup continuous integration (CI) with [GitHub Actions](https://github.com/features/actions) to <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to automate the build, test and deployment.  
 - Setup [Codecov](https://about.codecov.io/) to track the unit test code coverage for my projects.
 - Setup [Snyk](https://snyk.io/) to find vulnerabilities in my code.
 
