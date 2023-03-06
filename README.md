@@ -33,10 +33,14 @@ I work on some hobby projects which are pinned below.
 &nbsp;
 ## :mortar_board: Development journal
 
+#### March 2023
+- ...
+
 #### February 2023
 - Training: [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) including deploying a new static web site with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) tutorial.
-- Added [GitHub Actions](https://github.com/features/actions) to <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to automate build, testing and deployment.  
-- Setup [Codecov](https://about.codecov.io/) to track the unit test code coverage:  [![codecov](https://codecov.io/gh/WinthorpeCross/birder-client/branch/master/graph/badge.svg?token=LIA3YIDXX2)](https://codecov.io/gh/WinthorpeCross/birder-client).
+- Setup continuous integration (CI) with [GitHub Actions](https://github.com/features/actions) to <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to automate build, testing and deployment.  
+- Setup [Codecov](https://about.codecov.io/) to track the unit test code coverage for my projects.
+- Setup [Snyk](https://snyk.io/) to find vulnerabilities in my code.
 
 #### January 2023
 - Event:  _.NET, IoT and Hedgehogs! + Visual Studio Extensions_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 31/01/23)
