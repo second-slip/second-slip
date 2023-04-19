@@ -33,6 +33,10 @@ I work on some hobby projects which are pinned below.
 &nbsp;
 ## :mortar_board: Development journal
 
+
+#### April 2023
+- Event:  _.NET Minimal APIs_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 18/04/23)
+
 #### March 2023
 - ...
 
