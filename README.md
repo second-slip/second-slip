@@ -37,14 +37,16 @@ I work on some hobby projects which are pinned below.
 #### April 2023
 - Event:  _.NET Minimal APIs_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 18/04/23)
 
+- configured the codespace environment for the <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> web app.
+
 #### March 2023
-- ...
+- Setup <a href="https://github.com/coverlet-coverage/coverlet">Coverlet</a> to report the unit test code coverage on the <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> .NET repository.
 
 #### February 2023
 - Training: Using [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) to deploy new static web sites. Experimented with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) tutorial.
 - Setup continuous integration (CI) with [GitHub Actions](https://github.com/features/actions) to <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to automate the build, test and deployment.  
 - Setup [Codecov](https://about.codecov.io/) to track the unit test code coverage for my projects.
-- Setup [Snyk](https://snyk.io/) to find vulnerabilities in my code.
+- Setup [Snyk](https://snyk.io/) to detect vulnerabilities in my repositories.
 
 #### January 2023
 - Event:  _.NET, IoT and Hedgehogs! + Visual Studio Extensions_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 31/01/23)
