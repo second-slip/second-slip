@@ -36,8 +36,7 @@ I work on some hobby projects which are pinned below.
 
 #### April 2023
 - Event:  _.NET Minimal APIs_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 18/04/23)
-
-- Setup GITHUB CODESPACE environment for the <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> web app.
+- Setup and configured a GitHub Codespaces environment for the <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> web app.
 
 #### March 2023
 - Setup <a href="https://github.com/coverlet-coverage/coverlet">Coverlet</a> to report the unit test code coverage on the <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> .NET repository.
