@@ -10,7 +10,7 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
 
 [2]: https://www.linkedin.com/in/andrewstuartcross/
 
-I work on some hobby projects which are pinned below.
+I have some hobby projects which are pinned below:
 
 &nbsp;
 ## &#x1f4c8; GitHub Stats
@@ -33,6 +33,10 @@ I work on some hobby projects which are pinned below.
 &nbsp;
 ## :mortar_board: Development journal
 
+#### May 2023
+- Started using the <a href="https://github.com/dotnet/Scaffolding">dotnet aspnet-codegenerator</a> command line scaffolding engine.  See this <a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-7.0">guide</a> on usage.
+<!-- - Swagger??????? -->
+<!-- - Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23) -->
 
 #### April 2023
 - Event:  _.NET Minimal APIs_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 18/04/23)
