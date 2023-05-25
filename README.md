@@ -35,7 +35,7 @@ I have some hobby projects which are pinned below:
 
 #### May 2023
 - Started using the <a href="https://github.com/dotnet/Scaffolding">dotnet aspnet-codegenerator</a> command line scaffolding engine.  See this <a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-7.0">guide</a> on usage.
-- Setup and use of <a href="https://swagger.io/">Swagger</a>.
+- Setup documentation on the <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> API with <a href="https://swagger.io/">Swagger</a>.
 - Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
 
 #### April 2023
