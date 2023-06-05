@@ -34,10 +34,10 @@ I have some hobby projects which are pinned below:
 ## :mortar_board: Development journal
 
 #### May 2023
-- Started using the <a href="https://github.com/dotnet/Scaffolding">dotnet aspnet-codegenerator</a> command line scaffolding engine.  See this <a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-7.0">guide</a> on usage.
-- Setup documentation on the <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> API with <a href="https://swagger.io/">Swagger</a>.
 - Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
 - Deployed <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> with Azure Web API.  It is available at the <a href="https://birder-server.azurewebsites.net/">birder-server.azurewebsites.net/</a> endpoint.
+- Started using the <a href="https://github.com/dotnet/Scaffolding">dotnet aspnet-codegenerator</a> command line scaffolding engine.  See this <a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-7.0">guide</a> on usage.
+- Setup documentation on the <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> API with <a href="https://swagger.io/">Swagger</a>.
 - Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to **Angular cli version 16**
 - Training: _Angular v16 is here!_ <a href="https://blog.angular.io/angular-v16-is-here-4d7a28ec680d">Angular Blog</a>
 - Training: reading about the new Angular Signals library.  See <a href="https://github.com/angular/angular/discussions/49683">RFC discussion</a>.
