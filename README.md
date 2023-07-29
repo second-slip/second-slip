@@ -15,19 +15,19 @@ I have some hobby projects which are pinned below:
 &nbsp;
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/WinthorpeCross/WinthorpeCross">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinthorpeCross&hide=html,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/andrew-stuart-cross/andrew-stuart-cross">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-stuart-cross&hide=html,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/WinthorpeCross/WinthorpeCross">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WinthorpeCross&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="WinthorpeCross's GitHub Stats" />
-</a>
-
-<a href="https://github.com/WinthorpeCross/birder-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WinthorpeCross&repo=birder-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/andrew-stuart-cross/andrew-stuart-cross">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-stuart-cross&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="andrew-stuart-cross's GitHub Stats" />
 </a>
 
-<a href="https://github.com/WinthorpeCross/birder-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WinthorpeCross&repo=birder-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/andrew-stuart-cross/birder-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrew-stuart-cross&repo=birder-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/andrew-stuart-cross/birder-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrew-stuart-cross&repo=birder-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 &nbsp;
@@ -35,23 +35,23 @@ I have some hobby projects which are pinned below:
 
 #### May 2023
 - Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
-- Deployed <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> with Azure Web API.  It is available at the <a href="https://birder-server.azurewebsites.net/">birder-server.azurewebsites.net/</a> endpoint.
+- Deployed <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> with Azure Web API.  It is available at the <a href="https://birder-server.azurewebsites.net/">birder-server.azurewebsites.net/</a> endpoint.
 - Started using the <a href="https://github.com/dotnet/Scaffolding">dotnet aspnet-codegenerator</a> command line scaffolding engine.  See this <a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-7.0">guide</a> on usage.
-- Setup documentation on the <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> API with <a href="https://swagger.io/">Swagger</a>.
-- Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to **Angular cli version 16**.
+- Setup documentation on the <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> API with <a href="https://swagger.io/">Swagger</a>.
+- Updated <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> to **Angular cli version 16**.
 - Training: _Angular v16 is here!_ <a href="https://blog.angular.io/angular-v16-is-here-4d7a28ec680d">Angular Blog</a>.
 - Training: reading about the new Angular Signals library.  See <a href="https://github.com/angular/angular/discussions/49683">RFC discussion</a>.
 
 #### April 2023
 - Event:  _.NET Minimal APIs_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 18/04/23).
-- Setup and configured a GitHub Codespaces environment for the <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> web app.
+- Setup and configured a GitHub Codespaces environment for the <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> web app.
 
 #### March 2023
-- Setup <a href="https://github.com/coverlet-coverage/coverlet">Coverlet</a> to report the unit test code coverage on the <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> .NET repository.
+- Setup <a href="https://github.com/coverlet-coverage/coverlet">Coverlet</a> to report the unit test code coverage on the <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> .NET repository.
 
 #### February 2023
 - Training: Using [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) to deploy new static web sites. Experimented with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) tutorial.
-- Setup continuous integration (CI) with [GitHub Actions](https://github.com/features/actions) on <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to automate the build, test and deployment.  
+- Setup continuous integration (CI) with [GitHub Actions](https://github.com/features/actions) on <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> to automate the build, test and deployment.  
 - Setup [Codecov](https://about.codecov.io/) to track the unit test code coverage for my projects.
 - Setup [Snyk](https://snyk.io/) to detect vulnerabilities in my repositories.
 
@@ -60,11 +60,11 @@ I have some hobby projects which are pinned below:
 
 #### December 2022
 - Training: _What's new in ASP.NET Core 7.0_ (Microsoft Learn, <a href="https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-7.0?source=recommendations&view=aspnetcore-7.0">here</a>) and _C# 11 and beyond_ (summary on YouTube, <a href="https://www.youtube.com/watch?v=Z8SL0Vv30j8">here</a>).
-- Updated <a href="https://github.com/WinthorpeCross/birder-server">birder-server</a> to .NET SDK version 7.
+- Updated <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> to .NET SDK version 7.
 
 #### November 2022
 - Training: _GitHub Codespaces_ (LinkedIn Learning)
-- Updated <a href="https://github.com/WinthorpeCross/birder-client">birder-client</a> to Angular version 15.
+- Updated <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> to Angular version 15.
 
 &nbsp;
 ## :star: My favourite resources
@@ -74,4 +74,4 @@ I have some hobby projects which are pinned below:
 &nbsp;
 ## :abacus: Visitors count
 
-<img src="https://profile-counter.glitch.me/WinthorpeCross/count.svg" />
+<img src="https://profile-counter.glitch.me/andrew-stuart-cross/count.svg" />
