@@ -33,6 +33,17 @@ I have some hobby projects which are pinned below:
 &nbsp;
 ## :mortar_board: Development journal
 
+<!--
+#### August 2023
+- code nation
+- Noda Time is an alternative date and time API for .NET.   https://nodatime.org/
+- null and void?
+- Angular Material datepicker?
+-->
+
+#### July 2023
+- Development: _Better paranoid than offline: Secure ASP.NET Core apps_ (available on YouTube, <a href="https://www.youtube.com/watch?v=8kIjMXJ_Cug&list=WL&index=77">here</a>)
+
 #### May 2023
 - Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
 - Deployed <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> with Azure Web API.  It is available at the <a href="https://birder-server.azurewebsites.net/">birder-server.azurewebsites.net/</a> endpoint.
