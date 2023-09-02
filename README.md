@@ -1,3 +1,4 @@
+<!-- emojis: https://gist.github.com/rxaviers/7360908 -->
 
 # Hello there <img src="https://birderstorage.blob.core.windows.net/domain/wave.gif" width="30px" height="30px" />
 
@@ -33,19 +34,19 @@ I have some hobby projects which are pinned below:
 &nbsp;
 ## :mortar_board: Development journal
 
-<!--
+<!-- null and void? -->
+
 #### August 2023
-- code nation
-- Noda Time is an alternative date and time API for .NET.   https://nodatime.org/
-- null and void?
-- Angular Material datepicker?
--->
+- Development: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record#positional-syntax-for-property-definition">Records</a> (C# reference) and _Records Deep Dive: What, Why and How_ (on <a href="https://youtu.be/lxwNcg2q1-Y?si=iFTwUkEnAbEbreFP">YouTube)</a>
+- Experimentation with <a href="https://nodatime.org/">Node Time</a> which is an alternative date and time API for .NET.
+
 
 #### July 2023
-- Development: _Better paranoid than offline: Secure ASP.NET Core apps_ (available on YouTube, <a href="https://www.youtube.com/watch?v=8kIjMXJ_Cug&list=WL&index=77">here</a>)
+<!-- - code nation --->
+- Development: _Better paranoid than offline: Secure ASP.NET Core apps_ (on <a href="https://www.youtube.com/watch?v=8kIjMXJ_Cug&list=WL&index=77">YouTube</a>)
 
 #### May 2023
-- Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
+- :calendar: Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
 - Deployed <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> with Azure Web API.  It is available at the <a href="https://birder-server.azurewebsites.net/">birder-server.azurewebsites.net/</a> endpoint.
 - Started using the <a href="https://github.com/dotnet/Scaffolding">dotnet aspnet-codegenerator</a> command line scaffolding engine.  See this <a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-7.0">guide</a> on usage.
 - Setup documentation on the <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> API with <a href="https://swagger.io/">Swagger</a>.
@@ -54,8 +55,8 @@ I have some hobby projects which are pinned below:
 - Training: reading about the new Angular Signals library.  See <a href="https://github.com/angular/angular/discussions/49683">RFC discussion</a>.
 
 #### April 2023
-- Event:  _.NET Minimal APIs_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 18/04/23).
-- Setup and configured a GitHub Codespaces environment for the <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> web app.
+- :calendar:   _.NET Minimal APIs_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 18/04/23).
+- :star: Setup and configured a GitHub Codespaces environment for the <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> web app.
 
 #### March 2023
 - Setup <a href="https://github.com/coverlet-coverage/coverlet">Coverlet</a> to report the unit test code coverage on the <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> .NET repository.
@@ -67,7 +68,7 @@ I have some hobby projects which are pinned below:
 - Setup [Snyk](https://snyk.io/) to detect vulnerabilities in my repositories.
 
 #### January 2023
-- Event:  _.NET, IoT and Hedgehogs! + Visual Studio Extensions_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 31/01/23)
+- :calendar: Event:  _.NET, IoT and Hedgehogs! + Visual Studio Extensions_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 31/01/23)
 
 #### December 2022
 - Training: _What's new in ASP.NET Core 7.0_ (Microsoft Learn, <a href="https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-7.0?source=recommendations&view=aspnetcore-7.0">here</a>) and _C# 11 and beyond_ (summary on YouTube, <a href="https://www.youtube.com/watch?v=Z8SL0Vv30j8">here</a>).
