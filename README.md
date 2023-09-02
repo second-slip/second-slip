@@ -34,7 +34,7 @@ I have some hobby projects which are pinned below:
 &nbsp;
 ## :mortar_board: Development journal
 
-<!-- null and void? -->
+<!-- postman vs code extension // null and void? -->
 
 #### August 2023
 - Development: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record#positional-syntax-for-property-definition">Records</a> (C# reference) and _Records Deep Dive: What, Why and How_ (on <a href="https://youtu.be/lxwNcg2q1-Y?si=iFTwUkEnAbEbreFP">YouTube).</a>
