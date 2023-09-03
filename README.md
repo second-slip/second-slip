@@ -37,13 +37,13 @@ I have some hobby projects which are pinned below:
 <!-- postman vs code extension // null and void? -->
 
 #### August 2023
-- Development: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record#positional-syntax-for-property-definition">Records</a> (C# reference) and _Records Deep Dive: What, Why and How_ (on <a href="https://youtu.be/lxwNcg2q1-Y?si=iFTwUkEnAbEbreFP">YouTube)</a>).
+- Development: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record#positional-syntax-for-property-definition">Records</a> (C# reference) and _Records Deep Dive: What, Why and How_ (on <a href="https://youtu.be/lxwNcg2q1-Y?si=iFTwUkEnAbEbreFP">YouTube</a>).
 - Experimentation with <a href="https://nodatime.org/">Noda Time</a> which is an alternative date and time API for .NET.
 
 
 #### July 2023
 <!-- - code nation --->
-- Development: _Better paranoid than offline: Secure ASP.NET Core apps_ (on <a href="https://www.youtube.com/watch?v=8kIjMXJ_Cug&list=WL&index=77">YouTube</a>)
+- Development: _Better paranoid than offline: Secure ASP.NET Core apps_ (on <a href="https://www.youtube.com/watch?v=8kIjMXJ_Cug&list=WL&index=77">YouTube</a>).
 
 #### May 2023
 - :calendar: Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
