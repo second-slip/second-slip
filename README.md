@@ -41,7 +41,7 @@ I have some hobby projects which are pinned below:
 
 - Development: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record#positional-syntax-for-property-definition">Records</a> (C# reference) and _Records Deep Dive: What, Why and How_ (on <a href="https://youtu.be/lxwNcg2q1-Y?si=iFTwUkEnAbEbreFP">YouTube</a>).
 - Experimentation with <a href="https://nodatime.org/">Noda Time</a> which is an alternative date and time API for .NET.
-- Trying out the <a href="https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode&mkt_tok=MDY3LVVNRC05OTEAAAGNvJOE2bJUEIO8AnIH304m464ZH69ab3GBdoqdBqfUXfZ7sUFHkYL74uzmcowBdKhvx9UugdzwwP-UINxgicMJ_Xu5Q1TkekD7Wg3eh7G1fdw">Postman VS Code extension</a> which is in early access.  I am a long-term user of the Postman desktop app.
+- Now using the <a href="https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode&mkt_tok=MDY3LVVNRC05OTEAAAGNvJOE2bJUEIO8AnIH304m464ZH69ab3GBdoqdBqfUXfZ7sUFHkYL74uzmcowBdKhvx9UugdzwwP-UINxgicMJ_Xu5Q1TkekD7Wg3eh7G1fdw">Postman VS Code extension</a> which is in early access.  I am a long-term user of the Postman desktop app.
 
 
 #### July 2023
