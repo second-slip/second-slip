@@ -31,7 +31,7 @@ I have some hobby projects which are pinned below:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrew-stuart-cross&repo=birder-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/andrew-stuart-cross/birder-client">
+<a href="https://github.com/andrew-stuart-cross/my-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrew-stuart-cross&repo=my-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
