@@ -40,9 +40,11 @@ I have some hobby projects which are pinned below:
 
 <!-- null and void? -->
 
+#### September 2023
+- Developed, tested and deployed my new <a href="https://github.com/andrew-stuart-cross/my-website">personal website</a> to <a href="https://www.andrewstuartcross.co.uk/">andrewstuartcross.co.uk</a>.
+- My website (above) uses the <a href="https://material.angular.io/">Angular Material</a> UI compoents library and the superb <a href="https://material.angular.io/guide/using-component-harnesses">test harness</a> for unit testing.  
+
 #### August 2023
-
-
 - Development: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record#positional-syntax-for-property-definition">Records</a> (C# reference) and _Records Deep Dive: What, Why and How_ (on <a href="https://youtu.be/lxwNcg2q1-Y?si=iFTwUkEnAbEbreFP">YouTube</a>).
 - Experimentation with <a href="https://nodatime.org/">Noda Time</a> which is an alternative date and time API for .NET.
 - Now using the <a href="https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode&mkt_tok=MDY3LVVNRC05OTEAAAGNvJOE2bJUEIO8AnIH304m464ZH69ab3GBdoqdBqfUXfZ7sUFHkYL74uzmcowBdKhvx9UugdzwwP-UINxgicMJ_Xu5Q1TkekD7Wg3eh7G1fdw">Postman VS Code extension</a> which is in early access.  I am a long-term user of the Postman desktop app.
