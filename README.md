@@ -42,7 +42,7 @@ I have some hobby projects which are pinned below:
 
 #### September 2023
 - Developed, tested and deployed my new <a href="https://github.com/andrew-stuart-cross/my-website">personal website</a> to <a href="https://www.andrewstuartcross.co.uk/">andrewstuartcross.co.uk</a>.
-- My website (above) uses the <a href="https://material.angular.io/">Angular Material</a> UI compoents library and the superb <a href="https://material.angular.io/guide/using-component-harnesses">test harness</a> for unit testing.  
+- My website (above) uses the <a href="https://material.angular.io/">Angular Material</a> UI components library and the superb <a href="https://material.angular.io/guide/using-component-harnesses">test harness</a> for unit testing.  
 
 #### August 2023
 - Development: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record#positional-syntax-for-property-definition">Records</a> (C# reference) and _Records Deep Dive: What, Why and How_ (on <a href="https://youtu.be/lxwNcg2q1-Y?si=iFTwUkEnAbEbreFP">YouTube</a>).
@@ -90,6 +90,7 @@ I have some hobby projects which are pinned below:
 &nbsp;
 ## :star: My favourite resources
 - _Testing Angular, A Guide to Robust Angular Applications_ (https://testing-angular.com/).  This is a brilliant (and free) resource.  It helped me to get to grips with testing in Angular.
+- The <a href="https://material.angular.io/">Angular Material</a> UI components library.  These are high-quality, well-tested components built with accessibility in mind.  The superb <a href="https://material.angular.io/guide/using-component-harnesses">test harness</a> makes unit testing the components easy.
 
 
 &nbsp;
