@@ -40,6 +40,18 @@ I have some hobby projects which are pinned below:
 
 <!-- null and void? -->
 
+#### November 2023
+
+#### Angular 17:
+- Updated <a href="https://github.com/andrew-stuart-cross/my-website">my-website</a> and <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> to Angular version 17.
+- Migrated <a href="https://github.com/andrew-stuart-cross/my-website">my-website</a> to the Standalone API configuration: see <a href="https://angular.io/guide/standalone-components">Getting started with standalone components</a>.
+- For information on Angular 17 see: <a href="https://blog.angular.io/introducing-angular-v17-4d7033312e4b">Introducing Angular v17</a>.
+
+#### .NET 8:
+- Updated <a href="https://github.com/andrew-stuart-cross/birder-server">birder-server</a> to .NET SDK version 8.
+- For information on .NET 8 see: <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8">What's new in .NET 8</a>
+
+
 #### September 2023
 - Developed, tested and deployed my new <a href="https://github.com/andrew-stuart-cross/my-website">personal website</a> to <a href="https://www.andrewstuartcross.co.uk/">andrewstuartcross.co.uk</a>.
 - My website (above) uses the <a href="https://material.angular.io/">Angular Material</a> UI components library and the superb <a href="https://material.angular.io/guide/using-component-harnesses">test harness</a> for unit testing.  
