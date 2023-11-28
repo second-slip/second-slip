@@ -44,7 +44,7 @@ I have some hobby projects which are pinned below:
 
 #### Angular 17:
 - Updated <a href="https://github.com/andrew-stuart-cross/my-website">my-website</a> and <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> to Angular version 17.
-- Migrated <a href="https://github.com/andrew-stuart-cross/my-website">my-website</a> to the Standalone API configuration: see <a href="https://angular.io/guide/standalone-components">Getting started with standalone components</a>.
+- Migrated <a href="https://github.com/andrew-stuart-cross/my-website">my-website</a> and <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> to the Standalone API configuration: see <a href="https://angular.io/guide/standalone-components">Getting started with standalone components</a>.
 - For information on Angular 17 see: <a href="https://blog.angular.io/introducing-angular-v17-4d7033312e4b">Introducing Angular v17</a>.
 
 #### .NET 8:
