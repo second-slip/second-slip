@@ -38,7 +38,8 @@ I have some hobby projects which are pinned below:
 &nbsp;
 ## :mortar_board: Development journal
 
-<!-- null and void? -->
+#### June 2024
+- using <a href="https://github.com/valor-software/ng2-charts">ng2-charts</a>: charts for Angular based on Chart.js.
 
 #### November 2023
 
@@ -65,6 +66,15 @@ I have some hobby projects which are pinned below:
 #### July 2023
 <!-- - code nation --->
 - Development: _Better paranoid than offline: Secure ASP.NET Core apps_ (on <a href="https://www.youtube.com/watch?v=8kIjMXJ_Cug&list=WL&index=77">YouTube</a>).
+
+
+<details>
+<summary>
+  
+### Older items (click to open)
+</summary>
+  
+
 
 #### May 2023
 - :calendar: Event:  _MongoDB and .NET_  (<a href="https://dotnetnorth.org.uk/">Dot Net North</a>, 23/05/23).
@@ -98,6 +108,8 @@ I have some hobby projects which are pinned below:
 #### November 2022
 - Training: _GitHub Codespaces_ (LinkedIn Learning)
 - Updated <a href="https://github.com/andrew-stuart-cross/birder-client">birder-client</a> to Angular version 15.
+
+</details>
 
 &nbsp;
 ## :star: My favourite resources
