@@ -39,7 +39,7 @@ I have some hobby projects which are pinned below:
 ## :mortar_board: Development journal
 
 #### June 2024
-- using <a href="https://github.com/valor-software/ng2-charts">ng2-charts</a>: charts for Angular based on Chart.js.
+- using <a href="https://github.com/valor-software/ng2-charts">ng2-charts</a>: charts for Angular based on Chart.js.  See the <a href="https://github.com/second-slip/cricket-charts">cricket charts</a> repository.
 
 #### November 2023
 
