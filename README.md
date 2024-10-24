@@ -7,9 +7,9 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
 - I work with .NET (C#) and Angular.
 - I am always learning how to write better code.
 - I'm interested in practical applications of data science and machine learning.
-- You can contact me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][2].
+- You can contact me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewstuartcross/)
 
-[2]: https://www.linkedin.com/in/andrewstuartcross/
+
 
 I have some hobby projects which are pinned below:
 
