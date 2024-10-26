@@ -10,8 +10,8 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
 - You can contact me through:-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewstuartcross/)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.andrewstuartcross.co.uk%2F&up_message=My%20Website&style=for-the-badge)]
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.andrewstuartcross.co.uk%2F)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.andrewstuartcross.co.uk%2F&up_message=My%20Website&style=for-the-badge)](https://www.andrewstuartcross.co.uk/)
+
 
 
 Find some of my hobby projects pinned below.
