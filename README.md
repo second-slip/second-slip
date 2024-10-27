@@ -36,6 +36,10 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=my-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/second-slip/cricket-charts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=cricket-charts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 &nbsp;
 ## :mortar_board: Development journal
 
