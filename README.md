@@ -7,11 +7,14 @@ My name is Andrew and I am a software developer.  I am experienced in the full s
 - I work with .NET (C#) and Angular.
 - I am always learning how to write better code.
 - My hobby projects are pinned below.
-- You can contact me through:-
+
+
+&nbsp;
+## :envelope: Contact me
+You can contact me through:-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewstuartcross/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.andrewstuartcross.co.uk%2F&up_message=My%20Website&style=for-the-badge)](https://www.andrewstuartcross.co.uk/)
-
 
 
 &nbsp;
