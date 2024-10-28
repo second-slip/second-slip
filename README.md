@@ -40,7 +40,7 @@ You can contact me through:-
 </a>
 
 <a href="https://github.com/second-slip/cricket-charts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=cricket-charts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=cricket-charts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
 &nbsp;
