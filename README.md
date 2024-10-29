@@ -21,26 +21,26 @@ You can contact me through:-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/second-slip/second-slip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=second-slip&hide=html,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=second-slip&hide=html,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22&langs_count=3" />
 </a>
 <a href="https://github.com/second-slip/second-slip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=second-slip&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="second-slip's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=second-slip&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" alt="second-slip's GitHub Stats" />
 </a>
 
 <a href="https://github.com/second-slip/birder-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=birder-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=birder-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
 <a href="https://github.com/second-slip/birder-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=birder-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=birder-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a> 
 
 <a href="https://github.com/second-slip/my-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=my-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=my-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
 <a href="https://github.com/second-slip/cricket-charts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=cricket-charts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=second-slip&repo=cricket-charts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
 &nbsp;
