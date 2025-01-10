@@ -121,6 +121,7 @@ You can contact me through:-
 
 &nbsp;
 ## :star: My favourite resources
+- The official <a href="https://gist.github.com/jelbourn/0158b02cfb426e69c172db4ec92e3c0c">Angular Style Guide</a> is very good.  It is still in draft at the time of writing (January 2025), following request for comments (RFC).
 - _Testing Angular, A Guide to Robust Angular Applications_ (https://testing-angular.com/).  This is a brilliant (and free) resource.  It helped me to get to grips with testing in Angular.
 - The <a href="https://material.angular.io/">Angular Material</a> UI components library.  These are high-quality, well-tested components built with accessibility in mind.  The superb <a href="https://material.angular.io/guide/using-component-harnesses">test harness</a> makes unit testing the components easy.
 
